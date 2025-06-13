@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -31,4 +32,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
