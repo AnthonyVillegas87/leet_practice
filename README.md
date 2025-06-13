@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0011-container-with-most-water) |
 | [2737-row-with-maximum-ones](https://github.com/AnthonyVillegas87/leet_practice/tree/master/2737-row-with-maximum-ones) |
 ## Matrix
 |  |
@@ -37,8 +38,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
