@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0011-container-with-most-water) |
+| [0496-next-greater-element-i](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0496-next-greater-element-i) |
 | [2737-row-with-maximum-ones](https://github.com/AnthonyVillegas87/leet_practice/tree/master/2737-row-with-maximum-ones) |
 ## Matrix
 |  |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -48,4 +50,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
