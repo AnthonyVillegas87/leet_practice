@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0125-valid-palindrome) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1666-make-the-string-great) |
 | [2470-removing-stars-from-a-string](https://github.com/AnthonyVillegas87/leet_practice/tree/master/2470-removing-stars-from-a-string) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
