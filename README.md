@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0011-container-with-most-water) |
+| [0239-sliding-window-maximum](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0496-next-greater-element-i) |
 | [2737-row-with-maximum-ones](https://github.com/AnthonyVillegas87/leet_practice/tree/master/2737-row-with-maximum-ones) |
 ## Matrix
@@ -79,4 +80,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
