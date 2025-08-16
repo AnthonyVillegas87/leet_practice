@@ -109,12 +109,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0110-balanced-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0975-range-sum-of-bst](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0110-balanced-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0975-range-sum-of-bst](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -126,8 +128,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0110-balanced-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0975-range-sum-of-bst](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0975-range-sum-of-bst](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
