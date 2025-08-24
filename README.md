@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1297-maximum-number-of-balloons](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1297-maximum-number-of-balloons) |
 | [1666-make-the-string-great](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1666-make-the-string-great) |
 | [2470-removing-stars-from-a-string](https://github.com/AnthonyVillegas87/leet_practice/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0496-next-greater-element-i) |
 | [1098-largest-unique-number](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1098-largest-unique-number) |
+| [1297-maximum-number-of-balloons](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1297-maximum-number-of-balloons) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1297-maximum-number-of-balloons](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1297-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
