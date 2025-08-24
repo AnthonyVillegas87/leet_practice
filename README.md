@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0011-container-with-most-water) |
 | [0239-sliding-window-maximum](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0496-next-greater-element-i) |
+| [1098-largest-unique-number](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1098-largest-unique-number) |
 | [2737-row-with-maximum-ones](https://github.com/AnthonyVillegas87/leet_practice/tree/master/2737-row-with-maximum-ones) |
 ## Matrix
 |  |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0496-next-greater-element-i) |
+| [1098-largest-unique-number](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1098-largest-unique-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -153,4 +155,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [1098-largest-unique-number](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1098-largest-unique-number) |
 <!---LeetCode Topics End-->
