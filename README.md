@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0496-next-greater-element-i) |
 | [1098-largest-unique-number](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1098-largest-unique-number) |
+| [1391-counting-elements](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1391-counting-elements) |
 | [2737-row-with-maximum-ones](https://github.com/AnthonyVillegas87/leet_practice/tree/master/2737-row-with-maximum-ones) |
 ## Matrix
 |  |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0496-next-greater-element-i) |
 | [1098-largest-unique-number](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1297-maximum-number-of-balloons) |
+| [1391-counting-elements](https://github.com/AnthonyVillegas87/leet_practice/tree/master/1391-counting-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
