@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0071-simplify-path) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0409-longest-palindrome) |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/AnthonyVillegas87/leet_practice/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
